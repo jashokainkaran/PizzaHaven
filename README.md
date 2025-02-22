@@ -82,6 +82,12 @@ Try git pull origin main to update your local repo.
 Want to improve Pizza Haven? 🍕 Fork it, tweak it, and send in a pull request. Just don’t replace pizza with pineapple. That’s controversial. 🍍🚫
 
 🤝 Credits
-Built with ❤️, PHP, Tailwind CSS, and way too much pizza. 🍕
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005E9C?style=flat&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+Built with ❤️, PHP, Tailwind CSS, MySQL and way too much pizza. 🍕
 
 Now go forth, code, and enjoy the cheesiest web project ever! 🚀🔥
