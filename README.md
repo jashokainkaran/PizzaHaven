@@ -9,32 +9,25 @@ Follow these steps, and you’ll have the project running faster than a pizza de
 1️⃣ Clone the Repo
 First, grab the code:
 
-sh
-Copy
-Edit
 git clone https://github.com/jashokainkaran/pizzaHaven.git
+
 Then, navigate into the folder:
 
-sh
-Copy
-Edit
 cd pizzaHaven
+
+
 2️⃣ Install Dependencies
 Since node_modules isn’t included (because it's HUGE and nobody wants that 🍕➡️🐘), you’ll need to install everything fresh:
 
-sh
-Copy
-Edit
 npm install
+
 This will set up Tailwind CSS and any other dependencies! 🎨✨
 
 3️⃣ Build Tailwind (If Needed)
 If styling looks weird (or non-existent 😱), generate the output.css file with:
 
-sh
-Copy
-Edit
 npx tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch
+
 Now Tailwind will watch for any changes and re-style everything in real-time. It’s like having your own personal web designer… kinda. 😆
 
 4️⃣ Open the Project 🍽️
